@@ -13,6 +13,12 @@ $ composer require man30/weather -vvv
 
 TODO
 
+config 
+views
+model
+controller
+etc.
+
 ## Contributing
 
 You can contribute in one of three ways:
