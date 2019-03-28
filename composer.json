@@ -1,0 +1,26 @@
+{
+  "name": "Man30\/weather",
+  "description": "男人30项目基础模块包",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xiaofeng",
+      "email": "man302015@qq.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Man30\\Weather\\": "src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Man30\\Weather\\ServiceProvider"
+      ]
+    }
+  }
+}
