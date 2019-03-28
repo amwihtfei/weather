@@ -1,6 +1,6 @@
 <?php
 
-    namespace man30\Weather\Exceptions;
+    namespace man30\weather\Exceptions;
 
     class HttpException extends \Exception
     {

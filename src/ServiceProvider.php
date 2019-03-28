@@ -1,6 +1,6 @@
 <?php
 
-    namespace man30\Weather;
+    namespace man30\weather;
     class ServiceProvider extends \Illuminate\Support\ServiceProvider
     {
         protected $defer = TRUE;

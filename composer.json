@@ -13,13 +13,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Man30\\Weather\\": "src"
+      "man30\\weather\\": "src"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "man30\\Weather\\ServiceProvider"
+        "man30\\weather\\ServiceProvider"
       ]
     }
   }

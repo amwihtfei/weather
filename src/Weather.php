@@ -1,9 +1,9 @@
 <?php
 
-    namespace man30\Weather;
+    namespace man30\weather;
 
     use GuzzleHttp\Client;
-    use man30\Weather\Exceptions\InvalidArgumentException;
+    use man30\weather\Exceptions\InvalidArgumentException;
 
     class Weather
     {
