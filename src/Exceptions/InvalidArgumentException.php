@@ -1,6 +1,6 @@
 <?php
 
-    namespace Man30\Weather\Exceptions;
+    namespace man30\Weather\Exceptions;
 
     class InvalidArgumentException extends \Exception
     {

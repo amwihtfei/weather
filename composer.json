@@ -1,5 +1,5 @@
 {
-  "name": "Man30\/weather",
+  "name": "man30\/weather",
   "description": "男人30项目基础模块包",
   "license": "MIT",
   "authors": [
@@ -19,7 +19,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Man30\\Weather\\ServiceProvider"
+        "man30\\Weather\\ServiceProvider"
       ]
     }
   }
